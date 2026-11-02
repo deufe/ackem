@@ -171,7 +171,7 @@ Download from [this repo's Releases](https://github.com/deufe/ackem/releases):
 
 | File | Size | SHA256 |
 |---|---|---|
-| `Ackem-2.0.0-mac-arm64.dmg` | 1.1 GB | (SHA256 filled after rebuild) |
+| `Ackem-2.0.0-mac-arm64.dmg` | 1.1 GB | `e1c0d8e0e0b6d86e34219e51ac952c13b4915ab39b905e0069d031a20c82598f` |
 
 > ⚠️ This is a community build, **not notarized by Apple**. On first launch macOS shows "damaged" or "unidentified developer" — **this is normal, the file is not damaged**. Follow the two steps below.
 
