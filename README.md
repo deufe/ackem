@@ -1,6 +1,6 @@
 # 💫 Ackem
 
-![Version](https://img.shields.io/badge/Version-2.0.0-orange?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-1.3.0-orange?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![License](https://img.shields.io/badge/License-AGPL--3.0-blue?style=for-the-badge)
 ![Local First](https://img.shields.io/badge/Data-Local--First-2ea043?style=for-the-badge)
@@ -9,7 +9,7 @@
 
 **Ackem** · **A**.C.K.E.M — **A**utonomous **C**ompanion **K**eeping **E**motional **M**emory
 
-**Ackem v2.0.0 (community desktop build)** — A **local-first** AI companion for Windows and macOS. Bring your own LLM (cloud or local); Ackem handles chat, memory, emotion, relationship state, and desktop presence — **all on your hard drive**. This repository continues development on top of the original [JasonLiu0826/Ackem](https://github.com/JasonLiu0826/ackem) v1.0.0.
+**Ackem v1.3 (community desktop build)** — A **local-first** AI companion for Windows and macOS. Bring your own LLM (cloud or local); Ackem handles chat, memory, emotion, relationship state, and desktop presence — **all on your hard drive**. This repository continues development on top of the original [JasonLiu0826/Ackem](https://github.com/JasonLiu0826/ackem) v1.0.0.
 
 > **Source**: [this repo](https://github.com/deufe/ackem) · upstream: [JasonLiu0826/Ackem](https://github.com/JasonLiu0826/ackem) · [Gitee mirror](https://gitee.com/jason_2005/ackem)  
 > **Download**: [releases of this repo](https://github.com/deufe/ackem/releases) (macOS dmg, ready to run) · upstream [GitHub Releases](https://github.com/JasonLiu0826/Ackem/releases) · [Gitee Releases](https://gitee.com/jason_2005/ackem/releases)  
@@ -35,7 +35,7 @@ Ackem is **not** a web chat box — it is a Windows desktop app that stays with 
 
 ---
 
-## 🆕 What's new in the community build (v2.0.0)
+## 🆕 What's new in the community build (v1.3)
 
 On top of upstream v1.0.0, concise but complete:
 
@@ -171,7 +171,7 @@ Download from [this repo's Releases](https://github.com/deufe/ackem/releases):
 
 | File | Size | SHA256 |
 |---|---|---|
-| `Ackem-2.0.0-mac-arm64.dmg` | 702 MB | `5e766f77e1063f0cbeaec13beeb34caea4384cc7b0a453e7d854d7aaf52db0ca` |
+| `Ackem-1.3.0-mac-arm64.dmg` | 1.1 GB | (SHA256 filled after build) |
 
 > ⚠️ This is a community build, **not notarized by Apple**. On first launch macOS shows "damaged" or "unidentified developer" — **this is normal, the file is not damaged**. Follow the two steps below.
 
@@ -194,7 +194,7 @@ First launch takes ~10–30 s (local embedding model extracts once).
 ### Windows
 
 - Official green build (v1.0.0): [upstream Releases](https://github.com/JasonLiu0826/Ackem/releases)
-- No Windows installer for v2.0.0 yet — build it on a Windows machine:
+- No Windows installer for v1.3 yet — build it on a Windows machine:
 
 ```bash
 npm install
@@ -235,7 +235,7 @@ Details: [docs/distribution-windows.md](./docs/distribution-windows.md)
 
 ---
 
-## 🎛️ How to use (v2.0.0)
+## 🎛️ How to use (v1.3)
 
 ### Chat & personality
 **Settings → Companion & Personality**: set the display name, gender, and pick a personality preset (29 available). The preset shapes tone, quirks, and boundaries.
