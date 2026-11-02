@@ -1,6 +1,6 @@
 # 💫 Ackem
 
-![Version](https://img.shields.io/badge/Version-1.3.0-orange?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-2.0.0-orange?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![License](https://img.shields.io/badge/License-AGPL--3.0-blue?style=for-the-badge)
 ![Local First](https://img.shields.io/badge/Data-Local--First-2ea043?style=for-the-badge)
@@ -10,7 +10,7 @@
 **Ackem** · **A**.C.K.E.M — 保持情感记忆的自主伙伴  
 *Autonomous Companion Keeping Emotional Memory*
 
-**Ackem v1.3（社区桌面版）** — 运行在你 Windows / macOS 电脑上的 **本地优先** AI 伴侣。自备大模型（云端或本机），Ackem 负责对话、记忆、情绪与关系、桌宠陪伴 — **数据都在本机硬盘**。本仓库基于原作者 [JasonLiu0826/Ackem](https://github.com/JasonLiu0826/ackem) v1.0.0 继续开发。
+**Ackem v2.0.0（社区桌面版）** — 运行在你 Windows / macOS 电脑上的 **本地优先** AI 伴侣。自备大模型（云端或本机），Ackem 负责对话、记忆、情绪与关系、桌宠陪伴 — **数据都在本机硬盘**。本仓库基于原作者 [JasonLiu0826/Ackem](https://github.com/JasonLiu0826/ackem) v1.0.0 继续开发。
 
 > **源码**：[本仓库](https://github.com/deufe/ackem) · 上游原作：[JasonLiu0826/Ackem](https://github.com/JasonLiu0826/ackem)  
 > **下载**：[本仓库 Releases](https://github.com/deufe/ackem/releases)（macOS dmg，开箱即用） · 上游 [GitHub Releases](https://github.com/JasonLiu0826/Ackem/releases) · [Gitee Releases](https://gitee.com/jason_2005/ackem/releases)  
@@ -36,7 +36,7 @@ Ackem **不是**网页聊天框，而是常驻桌面的 Windows 应用：系统�
 
 ---
 
-## 🆕 社区桌面版 v1.3 新增功能
+## 🆕 社区桌面版 v2.0.0 新增功能
 
 相对上游 v1.0.0，本版本新增 / 升级如下（简要但完整）：
 
@@ -172,7 +172,7 @@ Ackem 是 **本地优先** 的 Windows 桌面程序：你配置大模型接口�
 
 | 文件 | 大小 | SHA256 |
 |---|---|---|
-| `Ackem-1.3.0-mac-arm64.dmg` | 1.1 GB | `48f90cfccea6827379a7d6c842fd849f19379b42e6d35c22efe04b2ffb6dde3e` |
+| `Ackem-2.0.0-mac-arm64.dmg` | 1.1 GB | （重建后填入 SHA256） |
 
 > ⚠️ 本构建为社区版，**未经 Apple 公证**。首次打开时 macOS 会提示「已损坏，无法打开」或「无法验证开发者」——**这是正常现象，文件没有损坏**。按下面两步操作即可。
 
@@ -195,7 +195,7 @@ xattr -cr /Applications/Ackem.app
 ### Windows
 
 - 官方绿色版（v1.0.0）：见 [上游 Releases](https://github.com/JasonLiu0826/Ackem/releases)
-- 本仓库新版（v1.3）暂未提供 Windows 安装包，可在 Windows 机器上自行构建：
+- 本仓库新版（v2.0.0）暂未提供 Windows 安装包，可在 Windows 机器上自行构建：
 
 ```bash
 npm install
@@ -236,7 +236,7 @@ npm run dist:green   # 产物在 dist/release/
 
 ---
 
-## 🎛️ 功能使用指南（v1.3）
+## 🎛️ 功能使用指南（v2.0.0）
 
 ### 对话与人格
 **设置 → 伴侣与人格**：设置「称呼」、性别，挑选人格预设（29 种）。人格决定她的语气、癖好与边界。

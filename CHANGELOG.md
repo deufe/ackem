@@ -1,12 +1,12 @@
 # Changelog
 
-本文件记录 **Ackem v1.0.0** 及后续用户可见变更。社区桌面版在本仓库按 **v1 → v1.1 → v1.2 → v1.3** 迭代（基于原作 v1.0.0 继续开发），上游官方 Release 见 [JasonLiu0826/Ackem Releases](https://github.com/JasonLiu0826/Ackem/releases)。
+本文件记录 **Ackem v1.0.0** 及后续用户可见变更。社区桌面版在本仓库按 **v1 / v1.1 / v1.2（1.x 小版本，Mac 适配迭代）→ v2.0.0（2.x 大版本，含 QQ / QQ 空间等新功能）** 发布（基于原作 v1.0.0 继续开发），上游官方 Release 见 [JasonLiu0826/Ackem Releases](https://github.com/JasonLiu0826/Ackem/releases)。
 
 格式基于 [Keep a Changelog](https://keepachangelog.com/zh-CN/1.1.0/)。
 
 ---
 
-## [1.3.0] - 2026-11-02
+## [2.0.0] - 2026-11-02
 
 ### Added
 
